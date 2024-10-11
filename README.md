@@ -1,5 +1,5 @@
 
-# List of projects
+# List of projects\\
 * Natural Language Processing: Program Authorship Classification
 ** Texual and stylish attributes
 ** Utilized Feature engineering to create text and stylish attributes. Classified C and C++ source code by author with SVM, Naive Bayes and Random Forest methods.
